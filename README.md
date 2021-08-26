@@ -1,18 +1,21 @@
-# Table Of Contents
+# React Authentication Project
+(Form Validation and dynamic css)
+
+## Table Of Contents
 
 * Project Overview
 * Takeaways
 * Technologies Used
 
-## Project Overview
+### Project Overview
 
 ...
 
-## Takeaways
+### Takeaways
 
 ...
 
-## Technologies Used
+### Technologies Used
 
 * HTML5 (JSX)
 * CSS3 (modules)
